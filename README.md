@@ -8,7 +8,7 @@ A pure go library that provides an ssh wrapper (using golang.org/x/crypt) for co
 Packages for use with the following databases packages are included:
 
 - mysql [github.com/go-sql-driver/mysql](https://pkg.go.dev/github.com/go-sql-driver/mysql)
-- mssql [github.com/denisekom/go-mssqldb](https://pkg.go.dev/github.com/denisenkom/go-mssqldb)
+- mssql [github.com/microsoft/go-mssqldb](https://pkg.go.dev/github.com/microsoft/go-mssqldb)
 - postgres [github.com/jackc/pgx](https://pkg.go.dev/github.com/jackc/pgx)
 - postgres [github.com/jackc/pgx/v4](https://pkg.go.dev/github.com/jackc/pgx/v4)
 

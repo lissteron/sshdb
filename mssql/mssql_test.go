@@ -14,10 +14,10 @@ import (
 	"os"
 	"testing"
 
-	pgkmssql "github.com/denisenkom/go-mssqldb"
 	"github.com/jfcote87/sshdb"
 	"github.com/jfcote87/sshdb/internal"
 	"github.com/jfcote87/sshdb/mssql"
+	pgkmssql "github.com/microsoft/go-mssqldb"
 )
 
 func TestTunnelDriver(t *testing.T) {

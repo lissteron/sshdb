@@ -10,8 +10,8 @@ import (
 	"database/sql/driver"
 	"sync"
 
-	mssql "github.com/denisenkom/go-mssqldb"
 	"github.com/jfcote87/sshdb"
+	mssql "github.com/microsoft/go-mssqldb"
 )
 
 func init() {
