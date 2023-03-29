@@ -15,7 +15,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 	"golang.org/x/crypto/ssh"
 )
 

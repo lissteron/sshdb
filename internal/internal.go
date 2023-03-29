@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 	"gopkg.in/yaml.v3"
 )
 

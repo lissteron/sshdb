@@ -11,9 +11,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/jfcote87/sshdb"
-	"github.com/jfcote87/sshdb/mssql"
-	"github.com/jfcote87/sshdb/mysql"
+	"github.com/lissteron/sshdb"
+	"github.com/lissteron/sshdb/mssql"
+	"github.com/lissteron/sshdb/mysql"
 	"golang.org/x/crypto/ssh"
 )
 

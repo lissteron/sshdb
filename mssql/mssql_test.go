@@ -14,9 +14,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jfcote87/sshdb"
-	"github.com/jfcote87/sshdb/internal"
-	"github.com/jfcote87/sshdb/mssql"
+	"github.com/lissteron/sshdb"
+	"github.com/lissteron/sshdb/internal"
+	"github.com/lissteron/sshdb/mssql"
 	pgkmssql "github.com/microsoft/go-mssqldb"
 )
 

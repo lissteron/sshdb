@@ -10,7 +10,7 @@ import (
 	"database/sql/driver"
 	"sync"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 	mssql "github.com/microsoft/go-mssqldb"
 )
 

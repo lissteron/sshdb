@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/go-sql-driver/mysql"
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 )
 
 func init() {

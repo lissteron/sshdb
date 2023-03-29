@@ -15,7 +15,7 @@ import (
 
 	"github.com/jackc/pgx"
 	"github.com/jackc/pgx/stdlib"
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 )
 
 var configFunc ConfigFunc

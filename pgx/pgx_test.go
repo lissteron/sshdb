@@ -14,9 +14,9 @@ import (
 	"testing"
 
 	"github.com/jackc/pgx"
-	"github.com/jfcote87/sshdb"
-	"github.com/jfcote87/sshdb/internal"
-	sshdbpgx "github.com/jfcote87/sshdb/pgx"
+	"github.com/lissteron/sshdb"
+	"github.com/lissteron/sshdb/internal"
+	sshdbpgx "github.com/lissteron/sshdb/pgx"
 )
 
 func TestTunnelDriver(t *testing.T) {

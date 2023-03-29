@@ -13,7 +13,7 @@ import (
 	"github.com/jackc/pgconn"
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v4/stdlib"
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 )
 
 type tunnelDriver string

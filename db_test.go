@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 )
 
 type Driver struct {

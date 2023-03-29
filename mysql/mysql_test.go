@@ -13,10 +13,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 
-	"github.com/jfcote87/sshdb/internal"
-	"github.com/jfcote87/sshdb/mysql"
+	"github.com/lissteron/sshdb/internal"
+	"github.com/lissteron/sshdb/mysql"
 )
 
 func TestTunnelDriver(t *testing.T) {

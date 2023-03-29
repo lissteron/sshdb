@@ -3,7 +3,7 @@ package internal_test
 import (
 	"testing"
 
-	"github.com/jfcote87/sshdb/internal"
+	"github.com/lissteron/sshdb/internal"
 )
 
 func TestLoadTunnelConfig(t *testing.T) {

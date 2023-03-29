@@ -1,6 +1,6 @@
 ## sshdb
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/jfcote87/sshdb.svg)](https://pkg.go.dev/github.com/jfcote87/sshdb) [![Build Status](https://app.travis-ci.com/jfcote87/sshdb.svg?branch=main)](https://app.travis-ci.com/jfcote87/sshdb) [![codecov](https://codecov.io/gh/jfcote87/sshdb/branch/main/graph/badge.svg?token=6WUH2GPZ0T)](https://codecov.io/gh/jfcote87/sshdb) [![Go Report Card](https://goreportcard.com/badge/github.com/jfcote87/sshdb)](https://goreportcard.com/report/github.com/jfcote87/sshdb)
+[![Go Reference](https://pkg.go.dev/badge/github.com/lissteron/sshdb.svg)](https://pkg.go.dev/github.com/lissteron/sshdb) [![Build Status](https://app.travis-ci.com/lissteron/sshdb.svg?branch=main)](https://app.travis-ci.com/lissteron/sshdb) [![codecov](https://codecov.io/gh/lissteron/sshdb/branch/main/graph/badge.svg?token=6WUH2GPZ0T)](https://codecov.io/gh/lissteron/sshdb) [![Go Report Card](https://goreportcard.com/badge/github.com/lissteron/sshdb)](https://goreportcard.com/report/github.com/lissteron/sshdb)
 
 
 A pure go library that provides an ssh wrapper (using golang.org/x/crypt) for connecting a database client to a remote database. 

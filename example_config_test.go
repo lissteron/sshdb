@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/jfcote87/sshdb"
+	"github.com/lissteron/sshdb"
 	"gopkg.in/yaml.v3"
 
-	_ "github.com/jfcote87/sshdb/mssql"
-	_ "github.com/jfcote87/sshdb/mysql"
+	_ "github.com/lissteron/sshdb/mssql"
+	_ "github.com/lissteron/sshdb/mysql"
 )
 
 // ExampleConfig demonstrates how to create tunnels and database
